@@ -1,0 +1,8 @@
+{
+  "/api/mentores/route": "app/api/mentores/route.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/mentores/page": "app/mentores/page.js",
+  "/page": "app/page.js",
+  "/precos/page": "app/precos/page.js",
+  "/pricing/page": "app/pricing/page.js"
+}
