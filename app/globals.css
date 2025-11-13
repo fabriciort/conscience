@@ -1,0 +1,87 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light;
+  --cream: #f5f3e3;
+  --charcoal: #1a1a1a;
+  --coral: #ff6b5b;
+  --peach: #f5c2a0;
+  --sage: #b8d4b0;
+  --sand: #e8e1d1;
+  --background: var(--cream);
+  --surface: #ffffff;
+  --surface-muted: #faf7ef;
+  --text-primary: var(--charcoal);
+  --text-muted: rgba(26, 26, 26, 0.7);
+  --border-soft: rgba(26, 26, 26, 0.12);
+  --shadow-soft: 0 24px 48px -24px rgba(26, 26, 26, 0.25);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --background: var(--charcoal);
+    --surface: #232323;
+    --surface-muted: #2d2d2d;
+    --text-primary: #f5f3e3;
+    --text-muted: rgba(245, 243, 227, 0.72);
+    --border-soft: rgba(245, 243, 227, 0.18);
+    --shadow-soft: 0 32px 64px -32px rgba(0, 0, 0, 0.55);
+  }
+}
+
+@theme inline {
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-surface-muted: var(--surface-muted);
+  --color-charcoal: var(--charcoal);
+  --color-cream: var(--cream);
+  --color-coral: var(--coral);
+  --color-peach: var(--peach);
+  --color-sage: var(--sage);
+  --color-text-strong: var(--text-primary);
+  --color-text-muted: var(--text-muted);
+  --color-border-soft: var(--border-soft);
+  --shadow-soft: var(--shadow-soft);
+  --radius-card: 24px;
+  --radius-pill: 9999px;
+  --spacing-page: clamp(1.5rem, 1.5rem + 2vw, 3rem);
+}
+
+*,
+*::before,
+*::after {
+  border-color: var(--border-soft);
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: var(--background);
+  color: var(--text-primary);
+  font-family: var(--font-geist-sans), system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font-family: inherit;
+}
+
+.focus-ring:focus-visible {
+  outline: 2px solid var(--coral);
+  outline-offset: 2px;
+}
