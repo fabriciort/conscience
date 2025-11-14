@@ -1,5 +1,35 @@
 {
-  "node": {},
+  "node": {
+    "00c0189c0d6ac5573080e72ee5176255d913efbc86": {
+      "workers": {
+        "app/platform/feed/page": {
+          "moduleId": "[project]/.next-internal/server/app/platform/feed/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/platform/layout.tsx [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "app/platform/layout.tsx"
+        },
+        "app/platform/researchers/page": {
+          "moduleId": "[project]/.next-internal/server/app/platform/researchers/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/platform/layout.tsx [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "app/platform/layout.tsx"
+        },
+        "app/platform/settings/page": {
+          "moduleId": "[project]/.next-internal/server/app/platform/settings/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/platform/layout.tsx [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "app/platform/layout.tsx"
+        }
+      },
+      "layer": {
+        "app/platform/feed/page": "rsc",
+        "app/platform/researchers/page": "rsc",
+        "app/platform/settings/page": "rsc"
+      },
+      "filename": "app/platform/layout.tsx",
+      "exportedName": "$$RSC_SERVER_ACTION_0"
+    }
+  },
   "edge": {},
   "encryptionKey": "IF5OXUYHYnwgdg/oRGY0Wx/VHaD2Y399i0raLmGzaj8="
 }

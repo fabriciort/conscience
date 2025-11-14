@@ -48,7 +48,7 @@ function SegmentSwitcher({ segments }) {
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$2_$40$babel$2b$core$40$7$2e$28$2e$5_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         className: "text-sm font-semibold uppercase tracking-widest text-[color:var(--text-muted)]",
-                        children: "Segmentos Consciência"
+                        children: "Segmentos Conscience"
                     }, void 0, false, {
                         fileName: "[project]/components/segment-switcher.tsx",
                         lineNumber: 22,
@@ -420,7 +420,7 @@ function TestimonialsCarousel({ testimonials, autoPlayInterval = 7000 }) {
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$2_$40$babel$2b$core$40$7$2e$28$2e$5_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                             className: "text-3xl font-semibold text-[color:var(--text-primary)] sm:text-4xl",
-                            children: "Comunidade Consciência em movimento"
+                            children: "Comunidade Conscience em movimento"
                         }, void 0, false, {
                             fileName: "[project]/components/testimonials-carousel.tsx",
                             lineNumber: 48,

@@ -34,7 +34,7 @@ export const audienceSegments: AudienceSegment[] = [
       { name: "Prof. Mateus Ibarra", role: "Coordenador de P&D" },
     ],
     whatsappMessage:
-      "Olá! Quero conhecer os programas para pesquisadores da Consciência.",
+      "Olá! Quero conhecer os programas para pesquisadores da Conscience.",
   },
   {
     id: "professional",
@@ -55,7 +55,7 @@ export const audienceSegments: AudienceSegment[] = [
       { name: "Camila Duarte", role: "Tech Lead em IA" },
     ],
     whatsappMessage:
-      "Olá! Quero saber como a Consciência apoia profissionais em transição.",
+      "Olá! Quero saber como a Conscience apoia profissionais em transição.",
   },
   {
     id: "student",
@@ -65,7 +65,7 @@ export const audienceSegments: AudienceSegment[] = [
     benefits: [
       "Planos de estudo personalizados por área",
       "Mentorias coletivas semanais",
-      "Bolsa Consciência para protagonismo jovem",
+      "Bolsa Conscience para protagonismo jovem",
     ],
     video: {
       title: "Construindo um projeto social desde o zero",
@@ -76,7 +76,7 @@ export const audienceSegments: AudienceSegment[] = [
       { name: "Leo Braga", role: "Facilitador STEAM" },
     ],
     whatsappMessage:
-      "Oi! Quero entender como a Consciência ajuda estudantes a construir projetos.",
+      "Oi! Quero entender como a Conscience ajuda estudantes a construir projetos.",
   },
   {
     id: "company",
@@ -89,7 +89,7 @@ export const audienceSegments: AudienceSegment[] = [
       "Mentores exclusivos com NDA",
     ],
     video: {
-      title: "Lab Consciência para squads corporativos",
+      title: "Lab Conscience para squads corporativos",
       duration: "7 min",
     },
     sampleMentors: [
@@ -97,7 +97,7 @@ export const audienceSegments: AudienceSegment[] = [
       { name: "Rafael Lopes", role: "Especialista em Aprendizagem Corporativa" },
     ],
     whatsappMessage:
-      "Olá! Quero conversar sobre programas corporativos da Consciência.",
+      "Olá! Quero conversar sobre programas corporativos da Conscience.",
   },
 ];
 

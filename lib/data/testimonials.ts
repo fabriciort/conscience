@@ -10,7 +10,7 @@ export const testimonials: Testimonial[] = [
   {
     id: "researcher-1",
     quote:
-      "Com a Consciência consegui estruturar um laboratório vivo que conectou universidades e comunidades ribeirinhas. O suporte metodológico foi essencial.",
+      "Com a Conscience consegui estruturar um laboratório vivo que conectou universidades e comunidades ribeirinhas. O suporte metodológico foi essencial.",
     name: "Dr. Vinícius Prado",
     role: "Pesquisador em Sustentabilidade",
     segment: "Pesquisador",
@@ -34,7 +34,7 @@ export const testimonials: Testimonial[] = [
   {
     id: "company-1",
     quote:
-      "Os laboratórios corporate labs da Consciência aceleraram nossa equipe cross-funcional com frameworks atualizados e acompanhamento dedicado.",
+      "Os laboratórios corporate labs da Conscience aceleraram nossa equipe cross-funcional com frameworks atualizados e acompanhamento dedicado.",
     name: "Renata Lima",
     role: "Diretora de Pessoas & Cultura",
     segment: "Empresa",

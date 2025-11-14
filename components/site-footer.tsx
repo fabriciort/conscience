@@ -35,14 +35,14 @@ export function SiteFooter() {
       <div className="mx-auto grid w-full max-w-6xl gap-12 px-4 py-12 sm:px-6 lg:grid-cols-[2fr,1fr,1fr,1fr] lg:px-8">
         <div>
           <p className="text-lg font-semibold text-[color:var(--text-primary)]">
-            Consciência
+            Conscience
           </p>
           <p className="mt-4 max-w-sm text-sm text-[color:var(--text-muted)]">
             Aprendizagem contínua, impacto real. Programas personalizados para
             pesquisadores, profissionais, estudantes e empresas.
           </p>
           <p className="mt-6 text-xs text-[color:var(--text-muted)]">
-            © {new Date().getFullYear()} Consciência. Todos os direitos
+            © {new Date().getFullYear()} Conscience. Todos os direitos
             reservados.
           </p>
         </div>

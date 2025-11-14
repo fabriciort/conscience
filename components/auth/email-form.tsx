@@ -89,7 +89,7 @@ export function EmailForm({ mode }: EmailFormProps) {
         type="submit"
         className="focus-ring w-full rounded-full bg-[color:var(--coral)] px-6 py-3 text-sm font-semibold text-white shadow-[var(--shadow-soft)] transition hover:-translate-y-0.5 hover:shadow-lg"
       >
-        {mode === "login" ? "Entrar na plataforma" : "Criar conta Consciência"}
+        {mode === "login" ? "Entrar na plataforma" : "Criar conta Conscience"}
       </button>
 
       {status === "success" && (

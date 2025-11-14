@@ -1,0 +1,23 @@
+{
+  "/(platform)/researchers/page": "app/(platform)/researchers/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/auth/callback/route": "app/auth/callback/route.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/auth/signup/page": "app/auth/signup/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/platform/feed/page": "app/platform/feed/page.js",
+  "/platform/read/[slug]/page": "app/platform/read/[slug]/page.js",
+  "/platform/researchers/[id]/page": "app/platform/researchers/[id]/page.js",
+  "/platform/researchers/page": "app/platform/researchers/page.js",
+  "/platform/settings/page": "app/platform/settings/page.js",
+  "/platform/watch/[id]/page": "app/platform/watch/[id]/page.js",
+  "/pricing/page": "app/pricing/page.js",
+  "/studio/analytics/page": "app/studio/analytics/page.js",
+  "/studio/dashboard/page": "app/studio/dashboard/page.js",
+  "/studio/posts/new/page": "app/studio/posts/new/page.js",
+  "/studio/posts/page": "app/studio/posts/page.js",
+  "/studio/videos/new/page": "app/studio/videos/new/page.js",
+  "/studio/videos/page": "app/studio/videos/page.js"
+}

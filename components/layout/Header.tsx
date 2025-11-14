@@ -12,7 +12,7 @@ export const Header: React.FC = () => {
       <nav className="container mx-auto px-4 md:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16 md:h-20">
           <Link href="/" className="text-2xl md:text-3xl font-bold text-[var(--charcoal)]">
-            Consciência
+            Conscience
           </Link>
           
           {/* Desktop Navigation */}
@@ -23,13 +23,10 @@ export const Header: React.FC = () => {
             <Link href="/pricing" className="text-[var(--charcoal)] hover:text-[var(--coral)] transition-colors">
               Preços
             </Link>
-            <Link href="/mentors" className="text-[var(--charcoal)] hover:text-[var(--coral)] transition-colors">
-              Mentores
-            </Link>
-            <Link href="/login">
+            <Link href="/auth/login">
               <Button variant="outline" size="sm">Entrar</Button>
             </Link>
-            <Link href="/signup">
+            <Link href="/auth/signup">
               <Button size="sm">Cadastrar</Button>
             </Link>
           </div>
@@ -73,18 +70,11 @@ export const Header: React.FC = () => {
             >
               Preços
             </Link>
-            <Link
-              href="/mentors"
-              className="block py-2 text-[var(--charcoal)] hover:text-[var(--coral)] transition-colors"
-              onClick={() => setIsMenuOpen(false)}
-            >
-              Mentores
-            </Link>
             <div className="flex flex-col gap-2 pt-2">
-              <Link href="/login" onClick={() => setIsMenuOpen(false)}>
+              <Link href="/auth/login" onClick={() => setIsMenuOpen(false)}>
                 <Button variant="outline" size="sm" className="w-full">Entrar</Button>
               </Link>
-              <Link href="/signup" onClick={() => setIsMenuOpen(false)}>
+              <Link href="/auth/signup" onClick={() => setIsMenuOpen(false)}>
                 <Button size="sm" className="w-full">Cadastrar</Button>
               </Link>
             </div>

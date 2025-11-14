@@ -1,6 +1,820 @@
-[00:00:01.197] Server  LOG      ✓ Ready in 897ms
-[00:06:54.272] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:12.827] Server  LOG      ○ Compiling /precos ...
-[00:00:14.879] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:16.581] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:19.801] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:01.844] Server  WARN     ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[00:00:01.979] Server  LOG      ✓ Ready in 1698ms
+[00:00:16.235] Server  LOG      ○ Compiling / ...
+[00:00:17.706] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:43.429] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:18.627] Server  LOG      ✓ Compiled in 77ms
+[00:08:24.033] Server  LOG      ✓ Compiled in 290ms
+[00:11:13.251] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:16.612] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:16.647] Server  LOG      ✓ Compiled in 35ms
+[00:13:16.764] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:16.865] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:18.028] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:18.192] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:18.812] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:18.864] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:18.885] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:19.122] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:19.279] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:19.279] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:19.306] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:19.356] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:19.391] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:19.435] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:19.480] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:19.520] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:19.543] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:19.543] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:19.543] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:19.559] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:19.606] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:19.641] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:19.691] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:19.748] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:19.792] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:19.845] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:19.845] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:19.845] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:19.858] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:19.925] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:19.967] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:20.016] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:20.016] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:20.027] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:20.095] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:20.156] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:20.203] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:20.248] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:20.262] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:20.262] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:20.263] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:20.326] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:20.420] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:20.515] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:20.573] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:20.668] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:20.739] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:20.832] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:20.872] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:20.935] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:20.996] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:21.041] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:21.081] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:21.126] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:21.142] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:21.142] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:21.142] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:21.142] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:21.142] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:21.142] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:21.142] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:21.142] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:21.142] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:21.142] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:21.179] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:21.206] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:21.255] Server  ERROR    ⨯ ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:21.533] Browser ERROR   uncaughtError: Error: ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+
+
+[00:13:21.726] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:21.726] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:24.529] Browser ERROR   ./app/page.tsx:294:27
+Parsing ecmascript source code failed
+  292 |           <div key={column.category} className="space-y-3">
+  293 |             <p className="text-sm uppercase tracking-[0.3em] text-[color:var(--text-secondary)]">{column.category}</p>
+> 294 |             <ul className="spaceاعد
+      |                           ^^^^^^^^^
+> 295 |
+      | ^
+
+Unterminated string constant
+[00:13:40.901] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:41.732] Server  LOG      ✓ Compiled in 0ms
+[00:13:41.855] Server  LOG      ✓ Compiled in 119ms
+[00:13:42.905] Server  LOG      ✓ Compiled in 55ms
+[00:24:04.077] Server  LOG      ✓ Compiled in 276ms
+[00:24:19.922] Server  LOG      ✓ Compiled in 371ms
+[00:26:37.741] Server  LOG      ✓ Compiled in 211ms
+[00:27:48.122] Server  LOG      ✓ Compiled in 154ms
+[00:28:04.362] Server  LOG      ✓ Compiled in 423ms
+[00:33:03.335] Server  LOG      ✓ Compiled in 587ms
+[00:33:51.355] Server  LOG      ✓ Compiled in 355ms

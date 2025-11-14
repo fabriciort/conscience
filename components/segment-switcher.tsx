@@ -20,7 +20,7 @@ export function SegmentSwitcher({ segments }: SegmentSwitcherProps) {
     <section className="mx-auto mt-16 flex w-full max-w-6xl flex-col gap-8 px-4 sm:px-6 lg:px-8">
       <header className="flex flex-col gap-2">
         <p className="text-sm font-semibold uppercase tracking-widest text-[color:var(--text-muted)]">
-          Segmentos Consciência
+          Segmentos Conscience
         </p>
         <h2 className="text-3xl font-semibold leading-tight text-[color:var(--text-primary)] sm:text-4xl">
           Experiências pensadas para cada jornada

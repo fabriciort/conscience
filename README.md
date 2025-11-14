@@ -1,4 +1,4 @@
-# Consciência - Plataforma Educacional de Assinatura
+# Conscience - Plataforma Educacional de Assinatura
 
 Uma plataforma educacional moderna construída com Next.js 16 e React 19, oferecendo conteúdo exclusivo, mentoria e recursos de aprendizagem para Pesquisadores, Profissionais, Estudantes e Empresas.
 
@@ -162,7 +162,7 @@ O projeto está pronto para deploy em:
 
 ## 📄 Licença
 
-Todos os direitos reservados © 2025 Consciência
+Todos os direitos reservados © 2025 Conscience
 
 ---
 

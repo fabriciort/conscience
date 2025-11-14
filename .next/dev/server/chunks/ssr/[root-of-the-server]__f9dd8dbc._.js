@@ -63,7 +63,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$mentor$2d$dire
 ;
 ;
 const metadata = {
-    title: "Mentores Consciência",
+    title: "Mentores Conscience",
     description: "Encontre especialistas certificados em inovação, pesquisa aplicada, educação e cultura organizacional para potencializar seus projetos."
 };
 function MentoresPage() {

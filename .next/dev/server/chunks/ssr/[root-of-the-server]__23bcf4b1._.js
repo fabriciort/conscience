@@ -106,7 +106,7 @@ const plans = [
                 label: "Estúdios temáticos e laboratórios premium"
             },
             {
-                label: "Clube Consciência com encontros quinzenais"
+                label: "Clube Conscience com encontros quinzenais"
             },
             {
                 label: "Ferramentas de diagnóstico de habilidades"
@@ -161,8 +161,8 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$data$2f$pricing$2e$ts
 ;
 ;
 const metadata = {
-    title: "Planos Consciência • Assinaturas para cada jornada",
-    description: "Compare planos de assinatura Consciência com mentorias, trilhas e suporte para pesquisadores, profissionais, estudantes e empresas."
+    title: "Planos Conscience • Assinaturas para cada jornada",
+    description: "Compare planos de assinatura Conscience com mentorias, trilhas e suporte para pesquisadores, profissionais, estudantes e empresas."
 };
 function PricingPage() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$2_$40$babel$2b$core$40$7$2e$28$2e$5_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -199,7 +199,7 @@ function FAQ() {
         },
         {
             question: "Há desconto para estudantes?",
-            answer: "Sim, estudantes aprovados na Bolsa Consciência recebem até 50% de subsídio no plano Essencial mediante apresentação de documentação."
+            answer: "Sim, estudantes aprovados na Bolsa Conscience recebem até 50% de subsídio no plano Essencial mediante apresentação de documentação."
         }
     ];
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$2_$40$babel$2b$core$40$7$2e$28$2e$5_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {

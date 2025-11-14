@@ -27,7 +27,7 @@ export function PricingTable({ plans }: PricingTableProps) {
             Planos e benefícios
           </p>
           <h1 className="mt-3 text-3xl font-semibold text-[color:var(--text-primary)] sm:text-4xl">
-            Flexibilidade para crescer com Consciência
+            Flexibilidade para crescer com Conscience
           </h1>
           <p className="mt-3 max-w-2xl text-base text-[color:var(--text-muted)] sm:text-lg">
             Escolha entre modalidades mensais ou anuais com economia, suporte
@@ -171,7 +171,7 @@ export function PricingTable({ plans }: PricingTableProps) {
             <div className="flex flex-col gap-3 sm:flex-row">
               <a
                 href={getWhatsAppLink(
-                  `Olá! Quero avançar com o plano ${selectedPlan.name} da Consciência.`,
+                  `Olá! Quero avançar com o plano ${selectedPlan.name} da Conscience.`,
                 )}
                 className="rounded-full bg-[color:var(--coral)] px-6 py-3 text-sm font-semibold text-white transition hover:-translate-y-0.5 hover:shadow-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[color:var(--coral)]"
               >
@@ -179,7 +179,7 @@ export function PricingTable({ plans }: PricingTableProps) {
               </a>
               <a
                 href={getWhatsAppLink(
-                  `Tenho dúvidas sobre o plano ${selectedPlan.name} da Consciência.`,
+                  `Tenho dúvidas sobre o plano ${selectedPlan.name} da Conscience.`,
                 )}
                 className="rounded-full border border-[color:var(--border-soft)] px-6 py-3 text-sm font-semibold text-[color:var(--text-primary)] transition hover:border-[color:var(--coral)] hover:text-[color:var(--coral)]"
               >

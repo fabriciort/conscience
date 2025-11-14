@@ -1,8 +1,8 @@
 {
-  "/api/mentores/route": "app/api/mentores/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
   "/auth/login/page": "app/auth/login/page.js",
-  "/mentores/page": "app/mentores/page.js",
   "/page": "app/page.js",
-  "/precos/page": "app/precos/page.js",
-  "/pricing/page": "app/pricing/page.js"
+  "/platform/feed/page": "app/platform/feed/page.js",
+  "/platform/researchers/page": "app/platform/researchers/page.js",
+  "/platform/settings/page": "app/platform/settings/page.js"
 }

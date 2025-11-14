@@ -1,0 +1,20 @@
+{
+  "node": {
+    "008d02d11d99e5f983fd1b82cdcc7aeef0ddb4195b": {
+      "workers": {
+        "app/platform/researchers/page": {
+          "moduleId": 22435,
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "app/platform/layout.tsx"
+        }
+      },
+      "layer": {
+        "app/platform/researchers/page": "rsc"
+      },
+      "exportedName": "$$RSC_SERVER_ACTION_0",
+      "filename": "app/platform/layout.tsx"
+    }
+  },
+  "edge": {}
+}

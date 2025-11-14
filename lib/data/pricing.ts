@@ -45,7 +45,7 @@ export const plans: Plan[] = [
     features: [
       { label: "Mentor especialista dedicado", highlighted: true },
       { label: "Estúdios temáticos e laboratórios premium" },
-      { label: "Clube Consciência com encontros quinzenais" },
+      { label: "Clube Conscience com encontros quinzenais" },
       { label: "Ferramentas de diagnóstico de habilidades" },
       { label: "Prioridade no suporte via WhatsApp" },
     ],

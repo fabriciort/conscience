@@ -2,9 +2,9 @@ import { PricingTable } from "@/components/pricing-table";
 import { plans } from "@/lib/data/pricing";
 
 export const metadata = {
-  title: "Planos Consciência • Assinaturas para cada jornada",
+  title: "Planos Conscience • Assinaturas para cada jornada",
   description:
-    "Compare planos de assinatura Consciência com mentorias, trilhas e suporte para pesquisadores, profissionais, estudantes e empresas.",
+    "Compare planos de assinatura Conscience com mentorias, trilhas e suporte para pesquisadores, profissionais, estudantes e empresas.",
 };
 
 export default function PricingPage() {
@@ -31,7 +31,7 @@ function FAQ() {
     {
       question: "Há desconto para estudantes?",
       answer:
-        "Sim, estudantes aprovados na Bolsa Consciência recebem até 50% de subsídio no plano Essencial mediante apresentação de documentação.",
+        "Sim, estudantes aprovados na Bolsa Conscience recebem até 50% de subsídio no plano Essencial mediante apresentação de documentação.",
     },
   ];
 

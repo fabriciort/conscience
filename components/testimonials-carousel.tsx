@@ -46,7 +46,7 @@ export function TestimonialsCarousel({
             Histórias reais
           </p>
           <h2 className="text-3xl font-semibold text-[color:var(--text-primary)] sm:text-4xl">
-            Comunidade Consciência em movimento
+            Comunidade Conscience em movimento
           </h2>
         </header>
 

@@ -41,7 +41,7 @@ export const mentorsDirectory: Mentor[] = [
       timezones: ["GMT-3", "GMT-4"],
     },
     whatsappMessage:
-      "Olá! Gostaria de agendar uma mentoria com a Dra. Helena Ramos pela Consciência.",
+      "Olá! Gostaria de agendar uma mentoria com a Dra. Helena Ramos pela Conscience.",
   },
   {
     id: "igor-nogueira",
@@ -65,7 +65,7 @@ export const mentorsDirectory: Mentor[] = [
       timezones: ["GMT-3"],
     },
     whatsappMessage:
-      "Olá! Desejo saber disponibilidade de mentoria com Igor Nogueira via Consciência.",
+      "Olá! Desejo saber disponibilidade de mentoria com Igor Nogueira via Conscience.",
   },
   {
     id: "rebeca-sato",
@@ -89,7 +89,7 @@ export const mentorsDirectory: Mentor[] = [
       timezones: ["GMT-3", "GMT-1"],
     },
     whatsappMessage:
-      "Oi! Quero agendar uma mentoria com a Rebeca Sato pela Consciência.",
+      "Oi! Quero agendar uma mentoria com a Rebeca Sato pela Conscience.",
   },
   {
     id: "amanda-costa",
@@ -113,7 +113,7 @@ export const mentorsDirectory: Mentor[] = [
       timezones: ["GMT-3", "GMT-5"],
     },
     whatsappMessage:
-      "Olá! Quero conversar sobre mentoria com Amanda Costa dentro da Consciência.",
+      "Olá! Quero conversar sobre mentoria com Amanda Costa dentro da Conscience.",
   },
 ];
 

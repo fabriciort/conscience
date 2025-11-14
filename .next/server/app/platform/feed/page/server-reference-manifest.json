@@ -1,0 +1,20 @@
+{
+  "node": {
+    "008d02d11d99e5f983fd1b82cdcc7aeef0ddb4195b": {
+      "workers": {
+        "app/platform/feed/page": {
+          "moduleId": 20761,
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "app/platform/layout.tsx"
+        }
+      },
+      "layer": {
+        "app/platform/feed/page": "rsc"
+      },
+      "exportedName": "$$RSC_SERVER_ACTION_0",
+      "filename": "app/platform/layout.tsx"
+    }
+  },
+  "edge": {}
+}

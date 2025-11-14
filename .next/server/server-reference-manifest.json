@@ -1,0 +1,56 @@
+{
+  "node": {
+    "008d02d11d99e5f983fd1b82cdcc7aeef0ddb4195b": {
+      "workers": {
+        "app/platform/feed/page": {
+          "moduleId": 20761,
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "app/platform/layout.tsx"
+        },
+        "app/platform/read/[slug]/page": {
+          "moduleId": 62151,
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "app/platform/layout.tsx"
+        },
+        "app/platform/researchers/[id]/page": {
+          "moduleId": 29727,
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "app/platform/layout.tsx"
+        },
+        "app/platform/researchers/page": {
+          "moduleId": 22435,
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "app/platform/layout.tsx"
+        },
+        "app/platform/settings/page": {
+          "moduleId": 12830,
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "app/platform/layout.tsx"
+        },
+        "app/platform/watch/[id]/page": {
+          "moduleId": 54772,
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "app/platform/layout.tsx"
+        }
+      },
+      "layer": {
+        "app/platform/feed/page": "rsc",
+        "app/platform/read/[slug]/page": "rsc",
+        "app/platform/researchers/[id]/page": "rsc",
+        "app/platform/researchers/page": "rsc",
+        "app/platform/settings/page": "rsc",
+        "app/platform/watch/[id]/page": "rsc"
+      },
+      "filename": "app/platform/layout.tsx",
+      "exportedName": "$$RSC_SERVER_ACTION_0"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "MWyoM+mNqAlcp2LiA3WqCIYcRYBORe3RalqYt84liQw="
+}

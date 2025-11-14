@@ -95,7 +95,7 @@ export function SiteHeader() {
                 onClick={() => setOpen(false)}
                 className="flex items-center justify-center rounded-full bg-[color:var(--coral)] px-4 py-3 text-sm font-semibold text-white shadow-[var(--shadow-soft)]"
               >
-                Assinar Consciência
+                Assinar Conscience
               </Link>
             </li>
           </ul>
